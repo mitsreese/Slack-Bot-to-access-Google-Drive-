@@ -1,6 +1,6 @@
 ## Description
 
-Creating GitHub repo by Slack slash commands using NestJS
+Accessing Google Drive by Slack slash commands using NestJS
 
 ## Installation
 
