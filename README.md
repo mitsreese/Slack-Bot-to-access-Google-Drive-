@@ -10,7 +10,7 @@ $ npm install
 
 ## Pre Processing
 
--> Create a new GitHub OAuth Application.
+-> Create a new Google OAuth Application.
 -> Edit the .env file and manifest.yml as shown.
 -> Create a new Slack app using the edited manifest.yml.
 -> Edit the .env file.
